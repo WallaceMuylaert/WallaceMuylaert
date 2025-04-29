@@ -1,5 +1,3 @@
-# README.md
-
 ## English
 
 ### About Me 👋
