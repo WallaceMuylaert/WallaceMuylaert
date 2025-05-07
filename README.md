@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WallaceMuylaert&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=Wallace%20Muylaert%27s%20GitHub%20Stats" alt="GitHub Stats" />
   <br/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallaceMuylaert&theme=dracula" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallaceMuylaert&theme=dracula" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceMuylaert&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
