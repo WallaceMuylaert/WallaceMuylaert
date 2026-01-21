@@ -1,46 +1,74 @@
-<h1 align="center">Hi there, I'm Wallace 👋</h1>
-<p align="center">Developer passionate about building smart, automated and accessible solutions.</p>
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">✨ Hi there, I'm Wallace 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WallaceMuylaert&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&custom_title=Wallace%20Muylaert%27s%20GitHub%20Stats" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WallaceMuylaert&theme=dracula" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceMuylaert&layout=compact&theme=dracula" alt="Top Languages" />
+  <strong>Full Stack Developer focused on modern web applications, automation and scalable solutions.</strong><br/>
+  Turning ideas into real-world tech with React, Node and Python. 🚀
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
 </p>
 
 ---
 
-## 🌐 English
+## 🎯 GitHub Dashboard (Tokyo Night)
 
-### About Me 👋
-
-Hello! I'm a passionate developer who loves building smart solutions using technology. I work mainly with Django (Python) and Node.js (JavaScript/TypeScript), and I have experience creating everything from powerful bots to self-service flows and complete web applications.
-
-My projects usually focus on:
-- ✨ Automation (bots, flows, task schedulers)
-- 📊 Visual and interactive interfaces (dynamic UIs)
-- 🧬 Data analysis, machine learning applications, and business tools
-- 🚀 Integration of modern frontend technologies with solid backend logic
-
-I'm always looking for ways to make technology more accessible, even for those who aren't tech-savvy.
-
-### Current Focus 🔍
-- Applying machine learning to improve business processes and decision-making
-- Creating tech services for companies of all sizes
-
-### Tech Stack 🔧
-- Django / Python
-- Node.js / JavaScript / TypeScript
-- React / Frontend Libraries
-- PostgreSQL / Sequelize
-- Machine Learning (scikit-learn, TensorFlow basics)
-
-### Let's connect! 💬
-I'm always excited to collaborate on innovative ideas. Feel free to reach out!
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WallaceMuylaert&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WallaceMuylaert&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WallaceMuylaert&theme=tokyonight&utcOffset=-3" />
+</p>
 
 ---
+
+## 🌐 About Me
+
+I'm Wallace, a **Full Stack Developer** specialized in building **modern, responsive and scalable web applications**.
+
+My main focus is on **React-based frontends** integrated with powerful backends using **Node.js** and **Python (Django)**.
+
+I build:
+
+- ⚛️ High-performance React applications  
+- 🎨 Modern, responsive UIs  
+- 🔄 Automated workflows & bots  
+- 🌐 Complete web platforms  
+- 📊 Business and productivity tools  
+
+I care about **performance, usability and clean architecture**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend (Main Focus)
+- **React / Vite / Next.js**
+- JavaScript / TypeScript  
+- Tailwind / Modern UI Libraries  
+- Responsive & Mobile-first Design  
+- UI/UX best practices  
+
+### Backend
+- Node.js / TypeScript  
+- Django / Python  
+- REST APIs & Integrations  
+
+### Database
+- PostgreSQL  
+- Sequelize  
+- MongoDB  
+
+### Data & AI
+- scikit-learn  
+- TensorFlow (basics)  
+
+---
+
+## 💬 Let's Connect
+
+Open to freelance, collaborations and innovative projects.
+
+<p align="center">
+  <strong>“Code. Create. Ship.”</strong>  
+</p>
