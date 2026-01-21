@@ -11,13 +11,21 @@
 
 ---
 
-## 🎯 GitHub Dashboard (Tokyo Night)
+## 🎯 GitHub Dashboard
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WallaceMuylaert&theme=tokyonight" />
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WallaceMuylaert&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WallaceMuylaert&theme=tokyonight&utcOffset=-3" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceMuylaert&layout=compact&theme=tokyonight" />
 </p>
 
 ---
