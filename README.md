@@ -1,12 +1,12 @@
 <h1 align="center">✨ Hi there, I'm Wallace 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer focused on modern web applications, automation and scalable solutions.</strong><br/>
-  Turning ideas into real-world tech with React, Node and Python. 🚀
+  <strong>Systems Analyst at PGE-RJ | Full Stack Developer | AI & NLP Enthusiast</strong><br/>
+  Turning ideas into real-world tech with React, Node, Python, and Large Language Models. 🚀
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Coding GIF"/>
 </p>
 
 ---
@@ -14,10 +14,10 @@
 ## 🎯 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WallaceMuylaert&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WallaceMuylaert&theme=tokyonight" alt="Profile Details" />
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WallaceMuylaert&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WallaceMuylaert&theme=tokyonight&utcOffset=-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WallaceMuylaert&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WallaceMuylaert&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
 </p>
 
 ---
@@ -25,58 +25,49 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceMuylaert&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WallaceMuylaert&theme=tokyonight" alt="Linguagens por Repositório" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WallaceMuylaert&theme=tokyonight" alt="Linguagens com mais Commits" />
 </p>
 
 ---
 
 ## 🌐 About Me
 
-I'm Wallace, a **Full Stack Developer** specialized in building **modern, responsive and scalable web applications**.
+I'm Wallace, a **Full Stack Developer** and **Systems Analyst at PGE-RJ** (Procuradoria Geral do Estado do Rio de Janeiro).
 
-My main focus is on **React-based frontends** integrated with powerful backends using **Node.js** and **Python (Django)**.
+With a strong foundation in modern web development, my current focus bridges software engineering and **Artificial Intelligence**. A significant part of my routine involves developing architectures utilizing **Large Language Models (LLMs)** and **Natural Language Processing (NLP)** to automate and summarize complex judicial and administrative workflows.
 
 I build:
 
-- ⚛️ High-performance React applications  
-- 🎨 Modern, responsive UIs  
-- 🔄 Automated workflows & bots  
-- 🌐 Complete web platforms  
-- 📊 Business and productivity tools  
+- 🤖 **AI-Powered Tools:** Intelligent extraction, text classification, and NLP bots.
+- ⚛️ **High-performance frontends:** Modern, responsive UIs with React.
+- 🔄 **Automated workflows:** Connecting powerful backends (FastAPI / Django / Node.js) with smart REST APIs.
+- 🌐 **Complete web platforms:** End-to-end solutions combining robust databases and clean architecture.
 
-I care about **performance, usability and clean architecture**.
+I care about **performance, usability, and delivering real-world value through code**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Expertise
 
-### Frontend (Main Focus)
-- **React / Vite / Next.js**
-- JavaScript / TypeScript  
-- Tailwind / Modern UI Libraries  
-- Responsive & Mobile-first Design  
-- UI/UX best practices  
+### 🧠 AI, Machine Learning & NLP
+- **Large Language Models (LLMs) & Prompt Engineering:** Architecting intelligent solutions and automated workflows.
+- **Machine Learning & Classification:** Predictive modeling, text classification, and tree-based algorithms (scikit-learn, XGBoost).
+- **Natural Language Processing (NLP):** Document processing, semantic search, and information extraction.
+- **Python Ecosystem:** Django, FastAPI, and data manipulation.
 
-### Backend
-- Node.js / TypeScript  
-- Django / Python  
-- REST APIs & Integrations  
-
-### Database
-- PostgreSQL  
-- Sequelize  
-- MongoDB  
-
-### Data & AI
-- scikit-learn  
-- TensorFlow (basics)  
+### 💻 Full Stack Engineering
+- **Frontend Architecture:** React, Vite, Next.js, JavaScript/TypeScript, Tailwind CSS, and Modern UIs.
+- **Backend & APIs:** Node.js, TypeScript, and scalable RESTful integrations.
+- **Databases:** PostgreSQL, MongoDB, and ORMs (Sequelize).
+- **Infrastructure & Ops:** Linux Environments, server maintenance, and automation scripts.
 
 ---
 
 ## 💬 Let's Connect
 
-Open to freelance, collaborations and innovative projects.
+Open to freelance opportunities, collaborations, and innovative tech projects.
 
 <p align="center">
-  <strong>“Code. Create. Ship.”</strong>  
+  <strong>“Code. Create. Ship.”</strong>
 </p>
